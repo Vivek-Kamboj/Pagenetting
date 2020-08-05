@@ -1,9 +1,9 @@
-Simple Python Search Spider, Page Ranker, and Visualizer
+<h1>Simple Python Search Spider, Page Ranker, and Visualizer</h1>
 
-This is a set of programs that emulate some of the functions of a 
+<strong>This is a set of programs that emulate some of the functions of a 
 search engine.  They store their data in a SQLITE3 database named
 'spider.sqlite'.  This file can be removed at any time to restart the
-process.   
+process.   </strong>
 
 You should install the SQLite browser to view and modify 
 the databases from:
